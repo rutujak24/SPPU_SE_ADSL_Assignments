@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : BT1.cpp
+// Name        : Assignment1.cpp
 // Author      : Rutuja Kawade
 // Version     :
 // Copyright   : Your copyright notice
