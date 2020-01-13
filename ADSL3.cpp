@@ -2,8 +2,8 @@
 // Name        : TBT3.cpp
 // Author      : Rutuja Kawade
 // Version     :
-// Copyrc   : Your copyrc notice
-// Description : Hello World in C++, Ansi-style
+// Copyright   : Your copyright notice
+// Description : TBST
 //============================================================================
 
 #include <iostream>
