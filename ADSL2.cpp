@@ -3,7 +3,7 @@
 // Author      : Rutuja Kawade
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : BST
 //============================================================================
 /*A Dictionary stores keywords & its meanings. Provide facility for adding new
 keywords, deleting keywords, updating values of any entry, assign a given tree
